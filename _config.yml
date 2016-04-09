@@ -1,0 +1,28 @@
+name: JPL Wealth
+favicon: null
+layout_spectrum: 0.3269271315075457
+typography_spectrum: 0.3698734587524086
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9009731570258737
+  lightness: 0.5991337769664824
+  saturation: 0.4011841048486531
+  rhythmicContrast: 0.5138359207194299
+purpose: []
